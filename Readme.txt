@@ -10,7 +10,7 @@ Arduino Energy Monitoring Library - compatible with Arduino 1.0
 
 ** This fork slip big class method in smallers, this permit to split operation in different time : config, measure, calc, display...
 It permit to update the pin number by config request from the Serial. This permit to include it in a config menu without open code to change pinout.
-This version is used in the windlogger project.
+This version is used in the windlogger project.**
 
 Designed for use with emonTx: http://openenergymonitor.org/emon/Modules
 
